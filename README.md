@@ -5,7 +5,7 @@
 #### By Zayd, Parth, Warren, Nadia, Edward
 ​
 ## Direct Link to app
-* https://polar-harbor-60783.herokuapp.com/
+* https://cap-clown.herokuapp.com/
 
 ## Description
 
