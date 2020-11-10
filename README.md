@@ -1,7 +1,6 @@
 # Caption Clown
 
-#### caption-clown-repo, 2/20/20 date
-​
+#### caption-clown-repo, 2/20/20
 #### By Zayd, Parth, Warren, Nadia, Edward
 ​
 ## Direct Link to app
@@ -21,7 +20,11 @@
 
 ## Known Bugs
 ​
-* None
+* Images are not persistant due to heroku deployment
+​
+## Future Updates
+​
+* Integration of AWS S3 service to make images persist when heroku dynos restart
 ​
 ## Technologies Used
 ​
